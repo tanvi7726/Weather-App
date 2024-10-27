@@ -23,11 +23,9 @@ A React-based weather monitoring application that fetches, processes, and visual
    ```bash
    git clone https://github.com/tanvi7726/Weather-App.git
 
-
 2. Navigate to the project directory:
    ```bash
    cd weather-monitoring-app
-
 
 3. Install the dependencies:
     ```bash
@@ -46,4 +44,4 @@ A React-based weather monitoring application that fetches, processes, and visual
 
     ```bash
     npm run dev
-    
+   
