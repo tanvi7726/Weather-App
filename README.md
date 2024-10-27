@@ -44,4 +44,8 @@ A React-based weather monitoring application that fetches, processes, and visual
 
     ```bash
     npm run dev
-   
+
+## Screenshots of the working Project:
+![1](https://github.com/user-attachments/assets/bc1dd794-1647-4134-8fa9-f57d1a57b1ff)
+![2](https://github.com/user-attachments/assets/5b757287-f026-4462-a190-d748f2ec93c7)
+![3](https://github.com/user-attachments/assets/062ed922-12d6-43f9-bbc3-668927d902b1)
