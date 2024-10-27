@@ -25,7 +25,7 @@ A React-based weather monitoring application that fetches, processes, and visual
 
 2. Navigate to the project directory:
    ```bash
-   cd weather-monitoring-app
+   cd Weather-App
 
 3. Install the dependencies:
     ```bash
